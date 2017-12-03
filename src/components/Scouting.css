@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+  background-color: black;
+
+}
+
+.page-container{
+  width: auto;
+  height: 100%;
+  text-align: center;
+  background-color: hsl(0,100%,25%);
+}
+
+.box{
+  border-style: dotted;
+  border-color: hsl(0,100%,25%);
+  background-color: gray;
+}
+
+.navbar{
+  text-align: left;
+  height: 900px;
+  width: 200px;
+  background-color: #392927;
+  color: #F1EAEA;
+}
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.extra{
+  width: auto;
+  height: 1000px;
+  background-color: hsl(0,100%,25%);
+
+}
+
+.li {
+    float: left;
+}
+
+.li .a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.li .a:hover {
+  background-color: #111;
+}
+
+.contents{
+  background-color: hsl(0,100%,25%);
+
+}
+
+
+
+.link{
+  height: 60px;
+  width: auto;
+}

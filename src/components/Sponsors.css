@@ -1,0 +1,25 @@
+.nav-bar{
+  padding-left: 40px;
+
+}
+
+.nav-tabs{
+  width: 100%;
+  display:flex;
+  justify-content:space-around;
+
+
+}
+
+.active{
+  background-color: #541D1D
+}
+
+.sponsorButtons{
+  color:white;
+  margin-top:20px;
+  width:200px;
+  height:50px;
+  border-radius:10px;
+  background-color:hsl(0, 100%, 25%);
+}
